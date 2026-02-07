@@ -24,6 +24,14 @@ app.get('/github', (req, res) => {
     res.send('kashish singh')
 })
 
+app.get('/facebook', (req, res) => {
+    res.send('kashish singh')
+})
+
+app.get('/instagram', (req, res) => {
+    res.send('kashish singh')
+})
+
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
 })
