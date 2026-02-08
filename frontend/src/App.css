@@ -1,0 +1,5 @@
+/* Main App styles are handled in component-specific CSS files */
+.App {
+  width: 100%;
+  height: 100vh;
+}
